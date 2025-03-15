@@ -25,7 +25,7 @@ I would create additional stories that revolve around a specific theme.
 ## Reflection Questions - Part 2
 
 **What was the most interesting or surprising part of implementing your chosen feature?**  
-The most interesting part of saving the story to a text file, was how easy it was!
+The most interesting part of saving the story to a text file was how easy it was!
 
 **What was the greatest obstacle or bug you faced, and how did you overcome it?**  
 I did not face any obstacles with the file-writing challenge. However, I did face several challenges while learning how to create new branches for working on a feature. Thankfully, I eventually figured it out and now feel confident in my ability to create and merge branches.
